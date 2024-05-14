@@ -1,0 +1,2 @@
+a = # locotron
+print (a)
