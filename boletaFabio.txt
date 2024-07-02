@@ -1,0 +1,7 @@
+Bienvenido a supermacado Alegre
+------------------------------
+Producto .........Precio
+Fideos.....$1490
+------------------------------
+Su subtotal es $14900
+Su total a pagar es $17731.0
